@@ -1,0 +1,13 @@
+@import url("https://fonts.googleapis.com/css2?family=Space+Mono&display=swap");
+@import url("https://v1.fontapi.ir/css/SFProDisplay");
+@import url("https://fonts.googleapis.com/css2?family=Merriweather&display=swap");
+@import url('https://fonts.cdnfonts.com/css/zapfino');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    body {
+        @apply font-sans antialiased bg-slate-50 text-slate-900 dark:bg-slate-900 dark:text-slate-50;
+    }
+}

@@ -1,0 +1,13 @@
+fastapi
+pydantic
+uvicorn
+python-dotenv
+wonderwords
+langchain
+openai
+wandb
+textstat
+pillow
+rich
+pandas
+spacy
