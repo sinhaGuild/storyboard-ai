@@ -1,4 +1,6 @@
-# FastAPI / React / Docker
+# Python-Typescript LLM Application
+
+##boilerplate
 
 Foundationally this is a boilerplate project, intended to help bootstrap a fullstack hybrid application with a python-based backend and a typescript-react based front end. For context, we're going to build an auto-storyboarding AI using large language model chaining techniques. It takes in short-form directional prompt to generate long form content full length stories.
 
