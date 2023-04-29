@@ -10,10 +10,13 @@ Inference performance will vary depending on the service, but here are some roug
 
 ### Demo
 
-![](https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/738dea17-7d12-4a39-b67e-7f0e8f847113.gif?ClientID=vimeo-core-prod&Date=1682749663&Signature=0bee8f6e478a681079753916f83210d058f3c311)
-![](https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/8bb75e74-a2cc-43c4-a6c6-ef94d60a4862.gif?ClientID=vimeo-core-prod&Date=1682750062&Signature=c76ef9b8c44b9badd4e826d69d83e2cc31d628cb)
-![](https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/f095ec18-6aaf-444e-ae63-83982ad596da.gif?ClientID=vimeo-core-prod&Date=1682749973&Signature=4ae580f8b2530fb02c228243591dfc02fc6bacb1)
-![](https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/53b8fc05-c4c1-4ffb-9aca-aff46057c73d.gif?ClientID=vimeo-core-prod&Date=1682750038&Signature=57100dbe9558f0ace98ee8a1d89109113aabadf1)
+Init
+
+![](./storyboarder-init.gif)
+
+Response
+
+![](./storyboard-response-lite.gif)
 
 ### Stack
 
