@@ -42,8 +42,8 @@ Response
 - [ReduxJS Toolkit](https://github.com/reduxjs/redux-toolkit)
   Global state management for input and reusable components.
 
-**Deployment**
-[optional] Deployed as a set of docker containers on heroku cloud.
+- [ ] **Roadmap Deployment**
+      [optional] Deployed as a set of docker containers on heroku cloud.
 
 - [Docker Compose](https://github.com/docker/compose)
   containerize fastapi (uvicorn container) and react
